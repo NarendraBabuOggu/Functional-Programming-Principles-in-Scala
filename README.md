@@ -1,5 +1,5 @@
 # Functional-Programming-Principles-in-Scala
-[The Course "Functional Programming Principles in Scala" from Coursera](https://www.coursera.org/learn/progfun1/home/welcome)
+This Repository contains the submitted assignment code for the Course ["Functional Programming Principles in Scala"] from Coursera (https://www.coursera.org/learn/progfun1/home/welcome)
 
 # About this Course
 Functional programming is becoming increasingly widespread in industry. This trend is driven by the adoption of Scala as the main programming language for many applications. Scala fuses functional and object-oriented programming in a practical package. It interoperates seamlessly with both Java and Javascript. Scala is the implementation language of many important frameworks, including Apache Spark, Kafka, and Akka. It provides the core infrastructure for sites such as Twitter, Tumblr and also Coursera.
